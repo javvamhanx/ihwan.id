@@ -38,7 +38,7 @@ export default class Navigation extends Component {
         <div className="nav-container">
           <div className="brand">
             <Link to="/">
-              <img src={logo} className="favicon" /> <span className="text">Ihwan ID</span>
+              <img src={logo} className="favicon" /> <span className="text">Javvamhanx</span>
             </Link>
           </div>
           <div className="links">
